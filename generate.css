@@ -1,0 +1,22 @@
+.box{
+    
+        width: 600px;
+        border: 1px solid black;
+        padding: 50px;
+        margin: 2px;
+        justify-content: center;
+        position: absolute;
+        top: 15%;
+        left: 25%;
+      
+}
+button {
+    width: 90px;
+    border: 1px solid;
+    padding: 2px;
+    background-color: aquamarine;
+    border-radius: 15px;
+    position: absolute;
+    top: 8%;
+    left: 50%;
+}
